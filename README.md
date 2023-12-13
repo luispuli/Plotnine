@@ -1,4 +1,4 @@
-# Embark on a Visual Odyssey: Mastering Plotnine in Python 📊 🐍
+# Embark on a Visual Odyssey: Mastering Plotnine in Python 📊 🐍 https://htmlpreview.github.io/?https://github.com/luispuli/Plotnine/blob/main/Plotnine.html
 
 Unlock the secrets of Grammar of Graphics in Python with this HTML
 publication tailored for R users. We explore parallels with ggplot,
